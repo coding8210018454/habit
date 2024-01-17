@@ -1,0 +1,17 @@
+
+
+
+.displayBox{
+    border: 1px solid black;
+    background-color: azure;
+    
+}
+
+.allListView{
+    border: 1px solid rgb(13, 5, 88);
+    /* background-color: rgb(27, 196, 12); */
+}
+
+.marg{
+    margin-top: 15px;
+}

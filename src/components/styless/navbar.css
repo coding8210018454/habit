@@ -1,0 +1,22 @@
+
+
+.nav{
+    text-align: center;
+    background-color: rgb(190, 186, 186);
+
+    margin-bottom: 20px;
+    
+    
+}
+.track{
+    color: rgb(46, 46, 219);
+}
+
+.image{
+    border-radius: 50%;
+  
+}
+
+.date{
+    color: orangered;
+}
